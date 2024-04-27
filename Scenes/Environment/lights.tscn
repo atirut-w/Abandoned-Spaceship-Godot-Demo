@@ -281,7 +281,6 @@ spot_angle_attenuation = 1.7411
 transform = Transform3D(0.351634, -0.842606, 0.407882, 0.209378, 0.495459, 0.843019, -0.912422, -0.211033, 0.350644, 39.413, 37.607, 23.481)
 light_color = Color(0.980392, 1, 0.901961, 1)
 light_energy = 1000.0
-light_indirect_energy = 100.0
 light_volumetric_fog_energy = 0.0
 light_size = 2.0
 light_specular = 0.0
