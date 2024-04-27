@@ -165,4 +165,5 @@ toggle_run={
 
 [rendering]
 
+lightmapping/denoising/denoiser=1
 anti_aliasing/quality/use_taa=true
